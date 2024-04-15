@@ -2549,10 +2549,13 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/maps@file:./modules/maps/":
+  version "1.0.0"
+
 "@modules/photo-editing@file:./modules/photo-editing":
   version "1.0.0"
 
-"@modules/qr-code@file:./modules/qr-code/":
+"@modules/qr-code@file:./modules/qr-code":
   version "1.0.0"
   dependencies:
     react-native-camera "4.2.1"
