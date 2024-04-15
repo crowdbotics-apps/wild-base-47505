@@ -2532,6 +2532,13 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
+"@modules/2fa@file:./modules/2fa/":
+  version "1.0.1"
+  dependencies:
+    react-native-dropdown-picker "^5.4.6"
+    react-native-qrcode-svg "6.1.2"
+    react-native-svg "12.3.0"
+
 "@modules/appointment-local@file:./modules/appointment-local":
   version "1.0.1"
   dependencies:
@@ -2573,7 +2580,7 @@
     react-native-camera "4.2.1"
     react-native-qrcode-scanner "1.5.5"
 
-"@modules/zoom-free-calling@file:./modules/zoom-free-calling/":
+"@modules/zoom-free-calling@file:./modules/zoom-free-calling":
   version "1.0.1"
   dependencies:
     react-native-base64 "0.2.1"
