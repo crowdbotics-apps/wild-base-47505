@@ -17,6 +17,7 @@
     "@modules/2fa": "file:./modules/2fa/",
     "@modules/appointment-local": "file:./modules/appointment-local/",
     "@modules/audio-player": "file:./modules/audio-player/",
+    "@modules/faq": "file:./modules/faq",
     "@react-native-masked-view/masked-view": "^0.2.9",
     "@react-navigation/native": "^6.1.6",
     "@react-navigation/native-stack": "6.5.0",
