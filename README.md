@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-photo-editing](modules/photo-editing)
 - [react-native-qr-code](modules/qr-code)
 - [react-native-live-camera-filters](modules/live-camera-filters)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
