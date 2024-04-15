@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [faq]()
 - [react-native-image-gallery](modules/image-gallery)
 - [react-native-maps](modules/maps)
+- [react-native-photo-editing](modules/photo-editing)
 
 # Getting started: Frontend
 
