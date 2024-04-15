@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-live-camera-filters](modules/live-camera-filters)
 - [react-native-login](modules/login)
 - [django-ocr](backend/modules)
+- [react-native-zoom-free-calling](modules/zoom-free-calling)
 
 # Getting started: Frontend
 
