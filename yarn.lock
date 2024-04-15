@@ -2540,19 +2540,20 @@
 "@modules/audio-player@file:./modules/audio-player":
   version "1.0.0"
 
-"@modules/audio-player@file:./modules/audio-player/":
-  version "1.0.0"
-
 "@modules/faq@file:./modules/faq":
   version "1.0.0"
 
 "@modules/image-gallery@file:./modules/image-gallery":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps":
+"@modules/live-camera-filters@file:./modules/live-camera-filters/":
   version "1.0.0"
+  dependencies:
+    "@react-native-community/cameraroll" "^4.1.2"
+    react-native-filter-camera "0.1.18"
+    react-native-vector-icons "^9.2.0"
 
-"@modules/maps@file:./modules/maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
 "@modules/photo-editing@file:./modules/photo-editing":
@@ -2604,7 +2605,7 @@
   resolved "https://registry.yarnpkg.com/@react-native-camera-roll/camera-roll/-/camera-roll-5.0.2.tgz#299bcd25fc51c1e8564808e744439bf7761286af"
   integrity sha512-5gBol4mHjw9u1hUQzYWWdnB+uYgjuBd+adLQfJWhE6yv7rNFb+Noi872bYLyzBb8ayaVAbp/EtlxiG1lWY/IyA==
 
-"@react-native-community/cameraroll@4.1.2":
+"@react-native-community/cameraroll@^4.1.2":
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/@react-native-community/cameraroll/-/cameraroll-4.1.2.tgz#489c6bb6137571540d93c543d5fcf8c652b548ec"
   integrity sha512-jkdhMByMKD2CZ/5MPeBieYn8vkCfC4MOTouPpBpps3I8N6HUYJk+1JnDdktVYl2WINnqXpQptDA2YptVyifYAg==
@@ -9070,6 +9071,11 @@ react-native-elements@^3.4.3:
     opencollective-postinstall "^2.0.3"
     react-native-ratings "8.0.4"
     react-native-size-matters "^0.3.1"
+
+react-native-filter-camera@0.1.18:
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/react-native-filter-camera/-/react-native-filter-camera-0.1.18.tgz#0d78f43df31dbb7790168ac7690f8ea21f26cb06"
+  integrity sha512-AlMisBq4ZihoBqQRwkMSB+RtZ7Qdq75aw7tGdAMIKvsyl2sOX8t22UxDf07QeKqqJJ0J1PUk6NXs06eo/JGJkQ==
 
 react-native-gesture-handler@^2.10.0:
   version "2.10.1"
