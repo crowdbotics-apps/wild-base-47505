@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-2fa](modules/2fa)
 - [react-native-audio-player](modules/audio-player)
 - [react-native-appointment-local](modules/appointment-local)
+- [django-camera](backend/modules)
 
 # Getting started: Frontend
 
